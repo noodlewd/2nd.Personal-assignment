@@ -15,6 +15,9 @@ React를 이용하여 각 국가의 메달 수를 입력하여 집계해주는 �
 ![스크린샷](./medal_total/public/screenshot1.JPG)
 
 
+---
+
+
 ## 🌟프로젝트 구조 및 기능
 
 ```plaintext
