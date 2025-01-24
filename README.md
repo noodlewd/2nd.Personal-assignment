@@ -11,5 +11,5 @@ React를 이용하여 각 국가의 메달 수를 입력하여 집계해주는 �
 
 ---
 
-## 프로그램 시연 영상 
-![시연영상](./public/video/medal-list intro.mp4)
+## 🖼️스크린샷
+![스크린샷](./public/cap3.JPG)
