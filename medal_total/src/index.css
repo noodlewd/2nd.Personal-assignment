@@ -100,3 +100,17 @@ h1 {
   position: relative;
   right: 30px;
 }
+
+.deleteBtn {
+  width: 80px;
+  height: 45px;
+  border-radius: 10px;
+  border-style: none;
+  font-weight: bold;
+  background-color: #fec400;
+}
+
+.deleteBtn:hover {
+  cursor: pointer;
+  background-color: aqua;
+}

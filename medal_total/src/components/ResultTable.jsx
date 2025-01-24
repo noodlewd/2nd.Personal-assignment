@@ -12,7 +12,7 @@ const ResultTable = ({ resultData, deleteBtn }) => {
           <td className="tdDesign">{item.bronze} 개</td>
           <td>
             {/* 삭제 버튼 함수를 호출하고 삭제하려는 행의 index를 전달 */}
-            <button onClick={() => deleteBtn(index)}>삭제</button>
+            <button className="deleteBtn" onClick={() => deleteBtn(index)}>삭제</button>
           </td>
         </tr>
       ))}
